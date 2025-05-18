@@ -189,9 +189,7 @@ The notebook demonstrates how to download and load the official GPT-2 (e.g., 124
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-*(You'll need to create a `LICENSE` file with the MIT license text if you choose this license)*
-
+This project is licensed under the MIT License
 ## Acknowledgements
 This project is inspired by the desire to understand LLMs from first principles and builds upon common knowledge and resources available in the deep learning community.
 (If this is based on a specific book, course, or paper, it's good to mention it here).
